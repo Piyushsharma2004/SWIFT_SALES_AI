@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "title": "The Future of AI Looks Bright",
+    "image": "/blogimages/future-of-ai.png",
+    "content": "<p>The future of AI is incredibly promising, with advancements poised to transform industries and everyday life. AI is expected to revolutionize healthcare through predictive diagnostics and personalized treatments. In finance, AI-driven analytics and automation will streamline operations and enhance decision-making. Smart cities powered by AI will improve urban living with efficient traffic management and energy use.</p>",
+    "createdAt": "2023-07-15T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "How AI Perceives the World",
+    "image": "/blogimages/ai-perceives.png",
+    "content": "<p>AI's future is bright, with transformative potential across industries. From personalized healthcare and finance automation to smart cities and tailored education, AI's advancements promise innovation and efficiency. Its role in climate research and sustainability offers hope for a greener future, driving progress and new possibilities globally.</p>",
+    "createdAt": "2024-07-16T00:00:00Z"
+  },
+  {
+    "id": "3",
+    "title": "AI in Customer Service",
+    "image": "/blogimages/aicustomer.png",
+    "content": "<p>AI can revolutionize customer service by providing 24/7 support through chatbots and virtual assistants. It can handle inquiries, resolve issues, and offer personalized recommendations quickly and efficiently, enhancing customer satisfaction and reducing the workload on human agents.</p>",
+    "createdAt": "2024-07-17T00:00:00Z"
+  },
+  {
+    "id": "4",
+    "title": "AI in Apple Vision Pro",
+    "image": "/blogimages/applevision.png",
+    "content": "<p>AI in Apple Vision Pro enhances user experiences with advanced image processing, real-time object recognition, and augmented reality features. It offers intuitive interactions, personalized content, and seamless integration with Apple's ecosystem, making it a powerful tool for both productivity and entertainment.</p>",
+    "createdAt": "2024-07-12T00:00:00Z"
+  
+  },
+  {
+    "id": "5",
+    "title": "AI and Robotics",
+    "image": "/blogimages/ai-robots.png",
+    "content": "<p>AI is revolutionizing robotics by enabling them to perform complex tasks, adapt to environments, and interact with humans seamlessly. This synergy is transforming manufacturing with increased efficiency and precision, healthcare with surgical precision and remote care, and logistics with optimized supply chains. The future of AI-powered robotics is promising, with advancements in autonomy, human-robot collaboration, and ethical AI development paving the way for innovative applications in everyday life.</p>",
+    "createdAt": "2024-07-13T00:00:00Z"
+  },
+  {
+    "id": "6",
+    "title": "Conversational AI ",
+    "image": "/blogimages/customer-service.png",
+    "content": "<p>Customer service with conversational AI enhances support by providing instant, 24/7 assistance through chatbots and virtual assistants. It efficiently handles inquiries, resolves issues, and offers personalized recommendations, improving customer satisfaction and reducing the burden on human agents. This leads to faster response times and a more engaging customer experience.</p>",
+    "createdAt": "2024-07-17T00:00:00Z"
+  }
+]
